@@ -99,7 +99,7 @@
     "@types/validator": "^13.12.2",
     "@types/wavesurfer.js": "^6.0.12",
     "@typescript-eslint/eslint-plugin": "^8.24.1",
-    "@typescript-eslint/parser": "^8.24.1",
+    "@typescript-eslint/parser": "^8.72.1",
     "@uidotdev/usehooks": "^2.4.1",
     "@vidstack/react": "^1.12.12",
     "@vitejs/plugin-react": "^4.3.4",
